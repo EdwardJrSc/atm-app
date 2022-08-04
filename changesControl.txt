@@ -1,3 +1,7 @@
 .: COMMIT 2 - 03082022 :.
 
-- Create folders components, images, styles
+- Create folders components, images, styles.
+- Create component Login.js.
+    . Create 4 divs (contenedor-login, titulo, username, password).
+- Add styles to contenedors login, username, password and h1.
+- Add style to component App in file css.
