@@ -1,0 +1,3 @@
+.: COMMIT 2 - 03082022 :.
+
+- Create folders components, images, styles
